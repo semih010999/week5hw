@@ -1,0 +1,15 @@
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\bin\Debug\net6.0\ShoppingDb.deps.json
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\bin\Debug\net6.0\ShoppingDb.dll
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\bin\Debug\net6.0\ShoppingDb.pdb
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\bin\Debug\net6.0\Entities.dll
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\bin\Debug\net6.0\Entities.pdb
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.AssemblyInfoInputs.cache
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.AssemblyInfo.cs
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.csproj.CopyComplete
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.dll
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\refint\ShoppingDb.dll
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ShoppingDb.pdb
+C:\Users\semih\Desktop\c#\Shopping\ShoppingDb\obj\Debug\net6.0\ref\ShoppingDb.dll
